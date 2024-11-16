@@ -1,4 +1,4 @@
-# MikroC-Code-Samples
+# Remappable Pins
 Code Samples For MikroC using the PIC Microcontroller
 
 PIC16F18345
